@@ -1,6 +1,6 @@
-# deep101
+# DL_101
 
-In todays session we will cover the deep learning basics. Three hands on demos which include:
+In todays session we will cover the deep learning basics. Below are the URLs to get started with DL:
 
 1) http://playground.tensorflow.org 
 
@@ -9,7 +9,7 @@ In todays session we will cover the deep learning basics. Three hands on demos w
 3) MNIST dataset Image classification problem
 
 
-Pre-Requisites:
+#Pre-Requisites
 https://cloud.ibm.com/registration
 
 
