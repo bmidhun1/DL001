@@ -11,6 +11,8 @@ In todays session we will cover the deep learning basics. Below are the URLs to 
 
 #Pre-Requisites
 https://cloud.ibm.com/registration
+
+
 https://www.ibm.com/cloud/watson-studio
 
 
