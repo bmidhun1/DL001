@@ -1,4 +1,4 @@
-# DL_101
+# DL_01
 
 In todays session we will cover the deep learning basics. Below are the URLs to get started with DL:
 
