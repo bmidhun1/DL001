@@ -1,10 +1,15 @@
 # DL001
 
-In todays session we will cover the deep learning basics. Below are the URLs to get started with DL:
+
+https://ibm.biz/BdzL4L
+
+
+
+Useful links
 
 1) http://playground.tensorflow.org 
 
-2) https://developer.ibm.com/tutorials/detect-wildfire-damaged-homes-using-drone-images-watson-visual-recognition/
+2) https://developer.ibm.com/patterns/text-summarization-topic-modelling-using-watson-studio-watson-nlu/
 
 3) MNIST dataset Image classification problem
 
