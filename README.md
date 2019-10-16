@@ -3,6 +3,9 @@
 
 https://ibm.biz/BdzL4L
 
+https://www.ibm.com/products/cognos-analytics
+
+
 
 
 Useful links
